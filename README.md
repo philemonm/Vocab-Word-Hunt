@@ -1,5 +1,5 @@
-# Vocab-Word-Hunt
-Privacy Policy
+# Vocab-Word-Hunt : Privacy Policy
+
 Welcome to Vocab Word Hunt game for Android!
 
 This is an open source Android game developed by Philemon Mukanga. The app is available on Google Play.
