@@ -2,7 +2,7 @@
 
 Welcome to Vocab Word Hunt game for Android!
 
-This is an open source Android game developed by Philemon Mukanga. The app is available on Google Play.
+This is an open source Android game developed by Philemon Mukanga. The app is available on the Google Play Store.
 
 As an avid Android user myself, I take privacy very seriously. I know how irritating it is when apps collect your data without your knowledge.
 
